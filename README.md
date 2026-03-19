@@ -39,7 +39,7 @@ For the LED light
 * D3 -> + pin (this will also be on the same row as the resistor)
 
 ## Step 3:
-Download the arduino IDE and copy paste the code included in the rip_sensor.ino file. You can tinker around with it however you like. From my research cheap sensors like the one I got require some time to boot up otherwise they wont be as precise so i coded in 
+Download the arduino IDE and copy paste the code included in the pir_sensor.ino file. You can tinker around with it however you like. From my research cheap sensors like the one I got require some time to boot up otherwise they wont be as precise so i coded in 
 a 30 second delay.
 
 ## Step 4:
